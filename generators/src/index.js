@@ -2,6 +2,9 @@
 var yeoman = require('yeoman-generator');
 var chalk = require('chalk');
 var yosay = require('yosay');
+var _ = require('lodash');
+var mkdirp = require('mkdirp');
+var utils = require('../utils.js');
 
 module.exports = yeoman.Base.extend({
 
