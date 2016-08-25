@@ -1,4 +1,5 @@
-# generator-ra [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# generator-ra
+
 > react+stylus
 
 ## 使用方法
