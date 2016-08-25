@@ -143,6 +143,7 @@ module.exports = yeoman.Base.extend({
     utils.debug(this, "app:install");
     // this.npmInstall([ 'react','react-redux' ], { 'saveDev': true });
     // this._addCssDependencies();
+    this.installDependencies();
   },
 
   // conflicts: function () {

@@ -120,7 +120,7 @@ module.exports = yeoman.Base.extend({
   },
 
   install: function () {
-    this.installDependencies();
+    // this.installDependencies();
   },
 
   _createSubFolders: function () {
