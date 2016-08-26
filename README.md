@@ -1,4 +1,4 @@
-# generator-ra
+# generator-ra  [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/generator-ra/Lobby#)
 
 [English](README.en-us.md)
 
@@ -78,4 +78,4 @@ yo ra:rc
 
 ## License
 
-MIT © [gongzhen]()
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php) © [gongzhen]()
