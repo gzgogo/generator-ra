@@ -1,5 +1,7 @@
 # generator-ra
 
+[English](README.en-us.md)
+
 > react+stylus
 
 ## 使用方法
