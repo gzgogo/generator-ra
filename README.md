@@ -2,6 +2,8 @@
 
 # generator-ra  [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/generator-ra/Lobby#)
 
+[![Join the chat at https://gitter.im/generator-ra/Lobby](https://badges.gitter.im/generator-ra/Lobby.svg)](https://gitter.im/generator-ra/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > react+stylus
 
 ## 使用方法
