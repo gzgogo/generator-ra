@@ -1,4 +1,4 @@
-# generator-ra
+# generator-ra  [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/generator-ra/Lobby#)
 
 > react+stylus
 
