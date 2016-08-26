@@ -1,6 +1,6 @@
-# generator-ra  [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/generator-ra/Lobby#)
+[[English](README.en-us.md)]
 
-[English](README.en-us.md)
+# generator-ra  [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/generator-ra/Lobby#)
 
 > react+stylus
 
