@@ -80,12 +80,12 @@ module.exports = yeoman.Base.extend({
 
     //copy HelloReact component
     this.fs.copy(
-      this.templatePath('javascripts/components/HelloReact/HelloReact.js'),
-      this.destinationPath('src/javascripts/components/HelloReact/' + 'HelloReact.js')
+      this.templatePath('javascripts/components/hello-react/HelloReact.js'),
+      this.destinationPath('src/javascripts/components/hello-react/' + 'HelloReact.js')
     );
     this.fs.copy(
-      this.templatePath('javascripts/components/HelloReact/HelloReact.styl'),
-      this.destinationPath('src/javascripts/components/HelloReact/' + 'HelloReact.styl')
+      this.templatePath('javascripts/components/hello-react/HelloReact.styl'),
+      this.destinationPath('src/javascripts/components/hello-react/' + 'HelloReact.styl')
     );
     utils.debug(this, "src:copy HelloReact component");
 

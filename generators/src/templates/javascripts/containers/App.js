@@ -1,8 +1,8 @@
 import React from 'react';
 
-import HelloReact from '../components/HelloReact/HelloReact'
+import HelloReact from '../components/hello-react/HelloReact'
 
-var App = React.createClass({
+class App extends React.Component {
   render() {
     return (
       <div className="app">
@@ -10,6 +10,6 @@ var App = React.createClass({
       </div>
     );
   }
-});
+}
 
 module.exports = App;
